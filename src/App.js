@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './512px-Amazon_Web_Services_Logo.svg.png';
 import './App.css';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Let´s build an AWS hosted app {'💻'}
         </p>
         <a
           className="App-link"
