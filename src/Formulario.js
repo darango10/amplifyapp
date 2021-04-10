@@ -24,7 +24,7 @@ const Formulario = () => {
             <Form className="container container-fluid mt-5" onSubmit={handleSubmit}>
                 <Form.Group controlId="formBasicFirstName">
                     <Form.Label>First Name</Form.Label>
-                    <Form.Control type="text" placeholder="Presone First Name" value={nombre.firstName}
+                    <Form.Control type="text" placeholder="Enter First Name Prueba" value={nombre.firstName}
                                   onChange={e => setNombre({...nombre, firstName: e.target.value})}/>
                 </Form.Group>
 

@@ -1,11 +1,11 @@
 import Formulario from "./Formulario";
 
 function App() {
-    return (
-        <div className="App">
-            <Formulario/>
-        </div>
-    );
+  return (
+    <div className="App">
+      <Formulario />
+    </div>
+  );
 }
 
 export default App;
